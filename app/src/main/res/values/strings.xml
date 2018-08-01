@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Text-to-Speech</string>
+    <string name="text">Text to be synthesized to speech</string>
+</resources>
