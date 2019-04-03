@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Text-to-Speech</string>
     <string name="text">Text to be synthesized to speech</string>
+    <string name="about_app">"This app is a realisation of Shlok Jhawar.\n\nDeveloper email: shlokj@gmail.com"</string>
 </resources>

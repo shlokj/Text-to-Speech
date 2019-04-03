@@ -4,4 +4,8 @@
         android:id="@+id/about"
         android:title="About">
     </item>
+    <item
+        android:id="@+id/open_on_gp"
+        android:title="Rate on Google Play">
+    </item>
 </menu>
